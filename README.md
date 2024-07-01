@@ -1,0 +1,2 @@
+# mytypescriptknowledge
+learning typescript
